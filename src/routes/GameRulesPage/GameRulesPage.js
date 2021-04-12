@@ -67,7 +67,7 @@ export default function GamesRulesPage(props) {
                     </div>
                 )}
                 <div className='userRules'>
-                    <h2>Rules For: {name}</h2>
+                    <h2>Notes For: {name}</h2>
                     <button onClick={() => setAdding(!adding)}>
                         {adding === false
                             ? 'Add'

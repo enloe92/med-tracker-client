@@ -24,7 +24,7 @@ export default function RulesPage(props) {
             <div className='gameSelect'>
                 {gameOptions}
             </div>
-            <p>Want to add a rule to a new game? <Link to='/Add'>Click here!</Link></p>
+            <p>Want to add a new note? <Link to='/Add'>Click here!</Link></p>
         </div>
     )
 }

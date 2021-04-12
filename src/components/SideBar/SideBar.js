@@ -36,14 +36,14 @@ export default function SideBar(props) {
             {props.category === 'search' && (
                 <Link to='/Search'>
                     <button>
-                        All Games
+                        All Medication Types
                     </button>
                 </Link>
             )}
             {props.category === 'usersgames' && (
                 <Link to='/Add'>
                     <button>
-                        Add Game
+                        Add Note
                     </button>
                 </Link>
             )}

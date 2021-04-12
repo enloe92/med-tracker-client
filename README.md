@@ -1,6 +1,6 @@
 # Med Tracker
 
-https://playpacket.vercel.app/
+https://med-tracker-enloe92.vercel.app/
 
 ## Screenshot
 
@@ -11,9 +11,9 @@ https://playpacket.vercel.app/
 ## SUMMARY
 
 This is the client for the Med Tracker API, where users can create/store/share
-the home rules to the games that they play.
+their notes about their medications and their side effects.
 
-Med Tracker API: https://github.com/IanBruns/playpacket-server
+Med Tracker API: 
 
 ## Technology used
 
@@ -25,4 +25,4 @@ Client end:
 ## Contact info
 
 For any suggestions, questions, or job opportunities (hint), please feel free to 
-contact me at ian@rbruns.com
+contact me at enloe92@gmail.com
